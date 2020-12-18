@@ -1,0 +1,14 @@
+.products-title {
+  font-weight: 600;
+}
+.prod-alerts button {
+  padding: 12px;
+  border: solid black 1px
+}
+/* DXLM - only affects css in same named components here
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
